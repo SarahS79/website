@@ -1,33 +1,22 @@
 My website will be based as a business page for a nail technician. 
-People will be able to search up the page by typing Authenticsets.com
+People will be able to search up the page by typing projectasets.com
+side code 39c0c4d6-f525-4066-9bb0-41662cfe9f6e
 Where The nail tech will be able to collect information from clients and show off some of her work.
-Some of my work that I will using to create this website would html,css,javascript.
+At the very top of the webpage client will have her logi with a marble background on her website.
+For this website HTML, CSS, and Javascipt will be used to create it.
 In my html i will have a header, images, paragraphs, titles and many more. 
-H1 would be authentic Sets 
+Images of the work will be displayed right below logo including an image of pricing.
 I would also link us css as this will help, style it for later
+clients wording will be in a pink type and have cursive font chosen to her liking. 
+H2 will have a small paragraph typed out about prices.
 The paragraph will include what the client cares most about in her business and why she created the business.
-A few images of the client's work.
-H2 would have policies and rules about the business.
-I'll be using li to create separation and dots.
-Include prices and images to show-case that. 
-A second paragragh for her open days and hours.
+H3 will be in Li abou polices and rules.
+An image of different shape for nails will be posted on the webite 
 Head four would be about her social media includes her link for instagram. 
+Hours of operation will also be posted.
 Ill create a div that the client will be able to put in full name phone and email. 
 I do later plan on including a payment method. 
 Having the user also be able to include thier ID so the client can have it for business purposes.
-All this will be my foundation for the business page, Styling it, will contain the background being a white and black img. 
-The color for the fonts will be some type of pink. 
-In Css i will be changing the color in paragraph and li as a type of pink.
-The font will be cursive right now everything in css is pretty basic for the most part
-
-My first user story is about the nail page business. 
-The user is able to see out the work and decide if they would like the service done by them.
-user would be able to slide through all photos.
-A button icon can be used to either call, message or share website.
-The can click in the link that can also take them to their instagram to check out more work. 
-At the bottom of the website phone number and address would be provided for the user to have.
-There is an icon that allows them to put in all info. 
-The client will be able to contact user to schedule an appointment.
 
 
 Second story is about a coffee shop business. 
