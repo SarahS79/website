@@ -1,0 +1,22 @@
+ (coffee website)
+ user enter website http://wwww.sitandsip.com
+ user opens web page. As soon as user opens webpage.
+  The first thing the user is going to be seeing is our company ntro. 
+We will have a picture of the inside of the business.
+below the image will be a small summary of the business and how it got started and why.
+The user will than see an image of our most popular drink and what we have avaible for the season.
+At the bottom of the screen they will  be able to see contact information and adress.
+Icons of our social media will be placed for them to follow if user wishes.
+User can click on the right top corner on the hambuger icon.
+They will be able to see an option for menu.
+When clicking menu user will see images of food and beverages items.
+A image and a small paragraph of the item will be shown including prices before taxes.
+Later if user decides to make reservation. user will click for reservation.
+ user will taken to another page to be able to provide information.
+ User will provide email address, phone number, and name. 
+ Calendar will be shown where the user can click and be able to choose a date and time. 
+ after date is choossen. Different times will be displayed which user will choose from.
+ After date and time is choosen a comfirmation will sent to the user. 
+ information is sent via email or text.
+ If the user decides to cancel or reschedule can do so via text by link in text. 
+user leave web page http://wwww.sitandsip.com
